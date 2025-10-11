@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "AI art, Free to use, The unlicense",
+  "footer": "AI art, Free to use, The Unlicense",
   "usage-stats": false
 }
